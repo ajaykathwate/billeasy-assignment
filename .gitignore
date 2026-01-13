@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# environment variables
+.env
+.env.production
+
+# editor
+.vscode/
+.idea/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# astro
+.astro/
+
+# vercel
+.vercel
+
+# claude
+.claude
