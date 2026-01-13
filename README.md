@@ -2,9 +2,8 @@
 
 A 2-screen payment flow application built with Astro, SolidJS, TypeScript, and TailwindCSS.
 
-## Live Demo
+## Live Demo - [Vercel Deployed Link](https://billeasy-assignment-kappa.vercel.app/)
 
----
 
 ## AI Tools Used
 
